@@ -64,6 +64,16 @@
   --color-brand: var(--brand);
   --color-brand-foreground: var(--brand-foreground);
   --color-brand-soft: var(--brand-soft);
+  --color-g-blue: var(--g-blue);
+  --color-g-blue-soft: var(--g-blue-soft);
+  --color-g-green: var(--g-green);
+  --color-g-green-soft: var(--g-green-soft);
+  --color-g-amber: var(--g-amber);
+  --color-g-amber-soft: var(--g-amber-soft);
+  --color-g-orange: var(--g-orange);
+  --color-g-orange-soft: var(--g-orange-soft);
+  --color-g-violet: var(--g-violet);
+  --color-g-violet-soft: var(--g-violet-soft);
   --font-sans: "Inter Tight", ui-sans-serif, system-ui, sans-serif;
   --shadow-panel: 0 1px 2px oklch(0.2 0.03 250 / 0.05), 0 8px 24px -12px oklch(0.2 0.03 250 / 0.18);
 }
@@ -94,6 +104,16 @@
   --brand: oklch(0.62 0.14 200);
   --brand-foreground: oklch(0.99 0.005 240);
   --brand-soft: oklch(0.955 0.025 205);
+  --g-blue: oklch(0.55 0.14 245);
+  --g-blue-soft: oklch(0.965 0.02 245);
+  --g-green: oklch(0.52 0.13 155);
+  --g-green-soft: oklch(0.965 0.025 155);
+  --g-amber: oklch(0.6 0.13 70);
+  --g-amber-soft: oklch(0.97 0.03 80);
+  --g-orange: oklch(0.6 0.15 40);
+  --g-orange-soft: oklch(0.97 0.028 45);
+  --g-violet: oklch(0.55 0.15 295);
+  --g-violet-soft: oklch(0.968 0.02 295);
   --chart-1: oklch(0.62 0.14 200);
   --chart-2: oklch(0.6 0.118 184.704);
   --chart-3: oklch(0.398 0.07 227.392);
